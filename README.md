@@ -8,8 +8,6 @@ These Fixes And Remaked Is All By Me
 If You Want Put Credits On Me.
 I thank you
 
-If Not.
-## I DONT CARE
+## Vape Ui Library By Dawid
 
-## Vape Ui Library By Dawid (idk)
-
+## Ven Ui Library By Dawid
